@@ -1,0 +1,22 @@
+This is a simple code editor that can save various file types and count the lines and characters as above while doing so. I attempted to choose a visually calming yet easy-to-read color scheme and a simple-to-use layout. I will demonstrate some of the functionality here for a YouTube video presentation. This code was created using Visual Studio 2022 Community Edition on the .NET Framework, utilizing Windows Forms. 
+
+Specific scenarios for using exceptions include:
+Anticipated Runtime Errors:
+	File operations, network operations, Invalid user input, Database interactions, and Array indexing.
+Invalid Object State
+Resource Cleanup
+Logging and Reporting
+Re-throwing Exceptions
+
+Future Core Architecture Features:
+Performance Excellence:
+	64-bit architecture, GPU-accelerated rendering, Multi-cursor editing, and a lightweight startup
+Intelligent Development Features:
+	AI-powered Intellisense, Advanced syntax highlighting, Hot reload capabilities, and Integrated Bit support
+User Experience Excellence:
+	Minimalist Interface, Command palette, Customizable themes, Tab multi-select and split views 
+Advanced Editor Capabilities:
+	Code Intelligence:
+		Project-wide context-sensitive auto-completion, Real-time error detection, Code folding, and Semantic 		highlighting
+	Developer Productivity:
+		Powerful find and replace, Sticky scroll, Brace pair colorization, All-in-one search
